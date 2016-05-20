@@ -1,0 +1,5 @@
+itemGroup.tabSamsBuckets=Hilfsblöcke
+tile.block_storeempty.name=Eimerspeicher
+tile.block_storemilk.name=Milchspeicher
+tile.block_storewater.name=Wasserspeicher
+tile.block_storelava.name=Lavaspeicher
